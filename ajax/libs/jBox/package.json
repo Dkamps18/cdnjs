@@ -28,10 +28,11 @@
     "target": "git://github.com/StephanWagner/jBox.git",
     "fileMap": [
       {
-        "basePath": "Source",
+        "basePath": "dist",
         "files": [
           "jBox*",
-          "themes/*.css"
+          "themes/*.css",
+          "plugins/*"
         ]
       }
     ]

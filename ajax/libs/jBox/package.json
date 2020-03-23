@@ -32,7 +32,7 @@
         "files": [
           "jBox*",
           "themes/*.css",
-          "plugins/*"
+          "plugins/*.(css|js)"
         ]
       }
     ]
